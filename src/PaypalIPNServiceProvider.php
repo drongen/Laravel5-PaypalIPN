@@ -1,4 +1,4 @@
-<?php namespace Fahim\PaypalIPN;
+<?php namespace Drongen\PaypalIPN;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -21,7 +21,7 @@ class PaypalIPNServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-		$this->app->make('Fahim\PaypalIPN\PaypalIPNListener');
+		$this->app->make('Drongen\PaypalIPN\PaypalIPNListener');
 	}
 
 }
