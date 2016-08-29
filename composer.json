@@ -6,6 +6,10 @@
         {
             "name": "Fahim Shariar",
             "email": "thebdcoder@gmail.com"
+        },
+        {
+            "name": "Aleksandar Tufekchiev",
+            "email": "aleksa.rab@gmail.com"
         }
     ],
     "minimum-stability": "stable",
@@ -14,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fahim\\PaypalIPN\\": "src/"
+            "Drongen\\PaypalIPN\\": "src/"
         }
     }
 }
