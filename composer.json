@@ -1,5 +1,5 @@
 {
-    "name": "fahim/laravel5-paypal-ipn",
+    "name": "drongen/laravel5-paypal-ipn",
     "description": "Paypal IPN class for Laravel 5",
     "license": "MIT",
     "authors": [
